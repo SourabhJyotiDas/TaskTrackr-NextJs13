@@ -3,8 +3,8 @@ import Header from "./header";
 import { ContextProvider } from "../components/Clients";
 
 export const metadata = {
-  title: "Todo App",
-  description: "This is a Todo App Project made for Next.js series",
+  title: "TaskTrackr",
+  description: "This is a Todo App made with Next.js",
 };
 
 export default function RootLayout({ children }) {
